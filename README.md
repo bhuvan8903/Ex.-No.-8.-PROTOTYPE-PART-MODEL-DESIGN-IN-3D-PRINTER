@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:BHUVANESHWARAN H
+### Register Number:212223240018
+![image](https://github.com/bhuvan8903/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151444524/4eed8900-24cd-4472-be33-def6649e92bd)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
